@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/../java/studata/JavaWeb-资料/day04-Maven_MyBatis/day04-2-Mybatis/资料/1. MyBatis 入门案例/tb_user.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$" dialect="MySQL" />
+  </component>
+</project>
